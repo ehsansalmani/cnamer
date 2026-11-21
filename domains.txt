@@ -1,0 +1,7 @@
+example.com
+www.github.com
+google.com
+www.cloudflare.com
+blog.example.org
+github.com
+www.microsoft.com
